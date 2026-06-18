@@ -8,7 +8,7 @@ matrix used in MADFO by a diagonal conjugacy-based scaling mechanism, while
 preserving the main components of the original MADFO framework.
 
 The program was written by Morteza Kimiaei (University of Vienna).
-Please inform the author at kimiaeim83@univie.ac.at if you make serious use
+Please inform the author at morteza.kimiaei@univie.ac.at if you make serious use
 of this code.
 
 This directory contains:
