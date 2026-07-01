@@ -1,6 +1,6 @@
 # DMADFO
 
-[![DOI](https://zenodo.org/badge/DOI/YOUR-DMADFO-ZENODO-DOI.svg)](https://doi.org/10.5281/zenodo.21104547)
+[![DOI](https://doi.org/10.5281/zenodo.21104547.svg)](https://doi.org/10.5281/zenodo.21104547)
 [![FWF Grant DOI](https://img.shields.io/badge/FWF%20Grant-10.55776%2FPAT2747625-blue)](https://doi.org/10.55776/PAT2747625)
 
 **DMADFO** performs approximate unconstrained noisy derivative-free minimization of a possibly nonsmooth function of many continuous variables.
