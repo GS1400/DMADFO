@@ -80,4 +80,13 @@ Please cite the DMADFO paper when using this package in scientific work:
   year    = {2026},
   url     = {https://arxiv.org/abs/2606.20304}
 }
+@software{kimiaei_2026_dmadfo,
+  author    = {Kimiaei, Morteza},
+  title     = {{GS1400/DMADFO: DMADFO Version 1.0.0}},
+  year      = {2026},
+  publisher = {Zenodo},
+  version   = {v1.0.0},
+  doi       = {10.5281/zenodo.21104547},
+  url       = {https://doi.org/10.5281/zenodo.21104547}
+}
 ```
