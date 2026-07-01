@@ -44,7 +44,7 @@ Please inform the author at `morteza.kimiaei@univie.ac.at` if you make serious u
 
 The archived software release is available on Zenodo:
 
-[https://doi.org/YOUR-DMADFO-ZENODO-DOI](https://doi.org/YOUR-DMADFO-ZENODO-DOI)
+[[[https://doi.org/YOUR-DMADFO-ZENODO-DOI](https://doi.org/10.5281/zenodo.21104547)](https://doi.org/YOUR-DMADFO-ZENODO-DOI)](https://doi.org/10.5281/zenodo.21104547)
 
 This project was funded by the **Austrian Science Fund (FWF)** under:
 
