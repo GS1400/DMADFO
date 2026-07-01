@@ -1,6 +1,6 @@
 # DMADFO
 
-[![DOI](https://doi.org/10.5281/zenodo.21104547.svg)](https://doi.org/10.5281/zenodo.21104547)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21104547.svg)](https://doi.org/10.5281/zenodo.21104547)
 [![FWF Grant DOI](https://img.shields.io/badge/FWF%20Grant-10.55776%2FPAT2747625-blue)](https://doi.org/10.55776/PAT2747625)
 
 **DMADFO** performs approximate unconstrained noisy derivative-free minimization of a possibly nonsmooth function of many continuous variables.
@@ -39,15 +39,16 @@ University of Vienna
 
 Please inform the author at `morteza.kimiaei@univie.ac.at` if you make serious use of this code.
 
-## DOI and funding
+## Software DOI and funding
 
 The archived software release is available on Zenodo:
 
-[https://doi.org/10.5281/zenodo.21104547](https://doi.org/10.5281/zenodo.21104547)
+Morteza Kimiaei. (2026). *GS1400/DMADFO: DMADFO Version 1.0.0* (v1.0.0). Zenodo.  
+https://doi.org/10.5281/zenodo.21104547
 
 This project was funded by the **Austrian Science Fund (FWF)** under:
 
-[https://doi.org/10.55776/PAT2747625](https://doi.org/10.55776/PAT2747625)
+**Grant DOI:** https://doi.org/10.55776/PAT2747625
 
 ## References
 
